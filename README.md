@@ -2,6 +2,10 @@
 
 Quiz Dasar Keamanan Program - Patching Aplikasi Race Shop
 
+- Achmad Luthfan Aufar Hindami
+- 2120101669
+- III RPLK
+
 How to run :
 
 ```
